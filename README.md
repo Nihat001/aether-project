@@ -389,6 +389,12 @@ Contributions are welcome! Please follow these guidelines:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## 🔮 Future Improvements
+- Replace JSON storage with PostgreSQL
+- Introduce async background ingestion workers
+- Add authentication via OAuth2 / JWT
+- Containerize with Docker and add CI pipeline
+
 ### Code Standards
 - Follow PEP 8 style guide
 - Add type hints to all functions
